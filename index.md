@@ -6,7 +6,7 @@
 ## 場所：東京大学柏図書館メディアホール
 
 ## important date
-- 参加登録締め切り：　2025年11月16日（日）24:00 JST [参加登録フォーム]()
+- 参加登録締め切り：　2025年11月16日（日）24:00 JST [参加登録フォーム](https://docs.google.com/forms/d/1pG6pk4pT4WGUvN_ddPde7NRCp3hZJRJQO19rGuMdYAI/edit?hl=ja)
 - 概要投稿締め切り：　2025年11月30日（日）24:00 JST [概要投稿フォーム]()
 
 
