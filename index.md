@@ -1,4 +1,7 @@
 # 第31回渦糸物理ワークショップ (31th Vortex Physics Workshop Japan)
+
+<div style="text-align: center;"><img src="figs/VPWJ2025_logo.png" alt="ロゴ" width="300"/></div>
+
 ## 日時：2025年12月15日(月)-17日(水)　
 ## 場所：東京大学柏図書館メディアホール
 
