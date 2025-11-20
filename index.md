@@ -7,7 +7,9 @@
 
 ## important date
 - 参加登録締め切り：　2025年11月16日（日）24:00 JST [参加登録フォーム](https://docs.google.com/forms/d/1pG6pk4pT4WGUvN_ddPde7NRCp3hZJRJQO19rGuMdYAI/edit?hl=ja)
-- 概要投稿締め切り：　2025年11月30日（日）24:00 JST [概要投稿フォーム]()
+- 概要投稿締め切り：　2025年11月30日（日）24:00 JST [概要投稿フォーム](https://docs.google.com/forms/d/1urHdXq2qk4F6Xx3f_3hQOKH6Al8CwYZ-audOZwAmd3A)
+
+概要テンプレートは[こちら](./vpwj2025_abstract.doc)
 
 
 
