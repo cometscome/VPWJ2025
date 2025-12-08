@@ -35,5 +35,9 @@ BECクロスオーバー、超伝導光物性、超伝導非相反（超伝
 - 永井佑紀（東京大学情報基盤センター）
 - 野島勉（東北大学金属材料研究所）
 
+## 講演プログラム
+[講演プログラム](VPWJprogram.pdf)
+
+
 
 共催：[ボルテックスフォーラム](https://sites.google.com/view/vortex-forum-japan/)
