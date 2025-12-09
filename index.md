@@ -42,6 +42,9 @@ BECクロスオーバー、超伝導光物性、超伝導非相反（超伝
 ## 講演プログラム
 [講演プログラム](VPWJprogram.pdf)
 
+## 概要集
+[概要集 (PDF)](VPWJ2025_abstracts.pdf)
+
 
 
 共催：[ボルテックスフォーラム](https://sites.google.com/view/vortex-forum-japan/)
