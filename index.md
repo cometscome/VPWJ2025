@@ -50,10 +50,16 @@ BECクロスオーバー、超伝導光物性、超伝導非相反（超伝
 
 パスワードは参加者にメールでお送りしています。
 
+## 主催：渦糸物理ワークショップ実行委員会
+
+- 永井佑紀（東京大学情報基盤センター）
+- 野島勉（東北大学金属材料研究所）
 
 
-##  [学生優秀発表賞](https://sites.google.com/view/vortex-forum-japan/award)
-以下の方々が受賞しました。おめでとうございます。<br>
+共催：[ボルテックスフォーラム](https://sites.google.com/view/vortex-forum-japan/)
+
+##  学生優秀発表賞
+以下の方々が[受賞](https://sites.google.com/view/vortex-forum-japan/award)しました。おめでとうございます。<br>
 
 <口頭発表の部> <br>
 - 田中薫（岡山大学理学部） <br>
@@ -65,9 +71,3 @@ BECクロスオーバー、超伝導光物性、超伝導非相反（超伝
 
 <br>
 
-## 主催：渦糸物理ワークショップ実行委員会
-- 永井佑紀（東京大学情報基盤センター）
-- 野島勉（東北大学金属材料研究所）
-  
-
-共催：[ボルテックスフォーラム](https://sites.google.com/view/vortex-forum-japan/)
